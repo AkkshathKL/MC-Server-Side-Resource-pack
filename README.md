@@ -1,6 +1,7 @@
 # MC-Server-Side-Resource-pack
 This repository consists resource packs that the MCS Server uses.
 
+
 > [!NOTE]
 
 All technical details and overview are written by AI to save some time.
