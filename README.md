@@ -36,7 +36,7 @@ The pack is built using Minecraft's standard resource pack format and requires n
 
 ---
 
-## 🛠 How It Works
+## How It Works
 
 Default 3D utilizes Minecraft's native JSON model format to replace selected 2D textures with optimized 3D geometry. Instead of relying on shaders or external modifications, the pack leverages the game's built-in rendering engine to create additional depth while maintaining complete compatibility with vanilla gameplay.
 
