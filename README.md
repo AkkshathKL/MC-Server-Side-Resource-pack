@@ -2,7 +2,8 @@
 This repository consists resource packs that the MCS Server uses.
 
 > [!Note]
-> Details are written by AI to save time.
+
+Details are written by AI to save time.
 
 # Default 3D Resource Pack
 
