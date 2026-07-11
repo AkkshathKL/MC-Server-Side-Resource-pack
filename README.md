@@ -1,7 +1,7 @@
 # MC-Server-Side-Resource-pack
 This repository consists resource packs that the MCS Server uses.
 
-> !Note
+> [!Note]
 > Details are written by AI to save time.
 
 # Default 3D Resource Pack
