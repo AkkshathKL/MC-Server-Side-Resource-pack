@@ -1,6 +1,9 @@
 # MC-Server-Side-Resource-pack
 This repository consists resource packs that the MCS Server uses.
 
+> !Note
+> Details are written by AI to save time.
+
 # Default 3D Resource Pack
 
 Default 3D is a lightweight Minecraft resource pack that enhances the vanilla experience by replacing selected flat textures with carefully designed 3D models while preserving the original 16×16 art style.
