@@ -59,6 +59,9 @@ All models are optimized to minimize polygon count while delivering a noticeable
 5. Enable **Default 3D**.
 6. Enjoy an enhanced vanilla experience.
 
+> [!NOTE]
+> You dont need to install this, once you join the server the game downloads the pack automatically.
+
 ---
 
 ## License
