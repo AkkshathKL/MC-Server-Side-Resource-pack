@@ -50,7 +50,7 @@ All models are optimized to minimize polygon count while delivering a noticeable
 
 ---
 
-## Installation
+## Installation (single player)
 
 1. Download the latest release.
 2. Move the `.zip` file into your Minecraft `resourcepacks` folder.
@@ -60,7 +60,7 @@ All models are optimized to minimize polygon count while delivering a noticeable
 6. Enjoy an enhanced vanilla experience.
 
 > [!NOTE]
-> You dont need to install this, once you join the server the game downloads the pack automatically.
+> While playing on MCS server, you dont need to install this, once you join the server the game downloads the pack automatically.
 
 ---
 
